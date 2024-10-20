@@ -1,1 +1,9 @@
-<app-header></app-header>
+<app-header />
+
+<div class="container">
+  <app-img-card
+    *ngFor="let item of data.cards"
+    [image]="item.image"
+    [text]="item.text"
+  />
+</div>

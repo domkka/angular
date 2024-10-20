@@ -1,0 +1,22 @@
+{
+    "cards":[
+    {
+        "id":"1",
+        "image":"images/cards/card1.png",
+        "text": "Popo von Dragon Ball",
+        "likes": "0"
+    },
+    {
+        "id":"2",
+        "image":"images/cards/card2.jpg",
+        "text": "Spunghjebbobe sadge",
+        "likes": "0"
+    },
+    {
+        "id":"3",
+        "image":"images/cards/card3.jpg",
+        "text":"Ramon ist komplett deppert iauzdgsfgzusadgzuisad uihgasuighd asuigdg iusadgiuas igdiugasgd saugid",
+        "likes": "0"
+    }
+    ]
+}
